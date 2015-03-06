@@ -52,3 +52,9 @@ nav ol{
 li:hover{
   background-color: red;
 }
+.inset-left {
+  width: 31%;
+  float: left;
+  margin-right: 10px;
+  clear: left;
+}
