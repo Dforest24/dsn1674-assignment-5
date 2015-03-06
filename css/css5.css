@@ -6,3 +6,17 @@ html{
 *, *::before, *::after{
   box-sizing: inherit;
 }
+}
+Header {
+  background-color: #cd5b34;
+  padding-top: .5em;
+  overflow: hidden;
+}
+.grain-left {
+  width:7%;
+  float: left;
+}
+.grain-right {
+  width: 7%;
+  float: right;
+}
