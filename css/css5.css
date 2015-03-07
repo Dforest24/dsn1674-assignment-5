@@ -58,3 +58,85 @@ li:hover{
   margin-right: 10px;
   clear: left;
 }
+h2 {
+  text-align: center;
+  color: white;
+  padding: 1em;
+  background-color: #dc8252;
+  border-top: 1px solid #cd5b34;
+  margin-bottom: 0;
+  font-size: 1.2rem;
+  clear: both;
+}
+.cereals, .quinoa {
+  float: right;
+  width: 31%;
+  clear: right;
+  margin: 7px;
+  border: 1px solid #cccccc;
+}
+.corn img{
+  width: 100%;
+  display: block;
+}
+.corn{
+  margin: 0;
+  width: 100%;
+}
+.corn figcaption {
+    text-align: center;
+  color: white;
+  padding:.2em 0 .5em 0;
+  background-color: #dc8252;
+  font-style: italic;
+}
+.rice img{
+  width: 100%;
+  display: block;
+}
+.rice{
+  margin:0;
+  width: 50%;
+  float: left;
+}
+.rice figcaption {
+  text-align: center;
+  color: white;
+  padding:.2em 0 .5em 0;
+  background-color: #dc8252;
+  border-bottom: 1px solid #cd5b34;
+  font-style: italic;
+  font-size: .8em;
+}
+.oats img{
+  width: 100%;
+  display:block;
+}
+.oats {
+  width: 50%;
+  float: right;
+  margin:0;
+}
+.oats figcaption {
+  text-align: center;
+  color: white;
+  padding:.2em 0 .5em 0;
+  background-color: #dc8252;
+  border-bottom: 1px solid #cd5b34;
+  font-style: italic;
+  font-size: .8em;
+}
+.legumes {
+  background-color: white;
+  border: none;
+  color: #000;
+  font-weight: bold;
+}
+
+.peanuts {
+  width: 20%;
+  float: left;
+  margin: 0 7px;
+  clear: left;
+  border: 1px solid #cccccc;
+}
